@@ -1,4 +1,4 @@
-(defproject lens-clojure "0.1"
+(defproject lens-clojure "0.2-SNAPSHOT"
   :description "Docker Container containing common Libs for Lens"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
